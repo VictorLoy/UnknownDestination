@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game/KillPlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy2/SlimeEnemyAI.cs" Line="90" Column="2" />
+      <File FileName="Assets/Scripts/Enemy1/simpleEnemyAI.cs" Line="301" Column="16" />
+      <File FileName="Assets/Scripts/Enemy3/Enemy3AI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/player_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/LevelManager.cs" Line="18" Column="31" />
+      <File FileName="Assets/Scripts/Game/KillPlayer.cs" Line="21" Column="27" />
+      <File FileName="Assets/Scripts/Enemy3/attention_manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy1/BottomVirticalMovementBumpers.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy1/Enemy1movementBumper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/Parallaxing.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/ObjectPlacement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/pickupsHover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/Portal.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/enemybar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/time.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sprites/Simple UI/Fonts/OFL.txt" Line="1" Column="1" />
+      <File FileName="Assets/enemy2AI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/spawnManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
